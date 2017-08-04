@@ -1,0 +1,21 @@
+
+.App-header {
+  background: linear-gradient(to bottom, rgba(30,87,153,0) 0%,rgba(30,87,153,0.8) 15%,rgba(30,87,153,1) 19%,rgba(30,87,153,1) 20%,rgba(41,137,216,1) 50%,rgba(30,87,153,1) 80%,rgba(30,87,153,1) 81%,rgba(30,87,153,0.8) 85%,rgba(30,87,153,0) 100%);
+  height: 80px;
+  padding: 30px;
+  color: white;
+  font-size: 60px;
+}
+.navigation{
+    font-size: 16px;
+    color: black;
+}
+li {
+    display: inline-block;
+    float: left;
+    padding: 20px;
+    background: lightgray;
+    border: 2px solid black
+
+    
+}
